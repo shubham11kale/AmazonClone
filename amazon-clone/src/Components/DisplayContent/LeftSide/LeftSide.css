@@ -1,0 +1,15 @@
+.LeftSide_main{
+    height: 100vh;
+    width: 200px;
+    border-right: 1px solid;
+}
+
+.brandname_header{
+    padding: 15px;
+    font-weight: bold;
+}
+
+.brandname_item{
+    padding-left: 15px;
+    display: block;
+}

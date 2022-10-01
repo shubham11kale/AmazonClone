@@ -1,0 +1,19 @@
+.AdvertisementFour_main{
+    height: 380px;
+    width: 335px;
+    background-color: white;
+    margin: 15px;
+}
+.AdvertisementFour_Header{
+    font-size: 21px;
+    line-height: 27px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.AdvertisementFour_body{
+    padding-left: 15px;
+}
+.AdvertisementFour_footer{
+    padding: 15px;
+}
